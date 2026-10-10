@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220">
+  <rect width="360" height="220" fill="#242424"/>
+  <rect x="90" y="35" width="180" height="150" rx="8" fill="#e67e22"/>
+  <rect x="110" y="55" width="140" height="8" fill="#ffffff"/>
+  <rect x="110" y="80" width="100" height="8" fill="#ffffff"/>
+  <text x="180" y="145" text-anchor="middle" fill="#ffffff" font-size="22">LIBRARY</text>
+</svg>
